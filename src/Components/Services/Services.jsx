@@ -16,31 +16,31 @@ const Services = () => {
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+                      
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
               </ul>
@@ -54,31 +54,31 @@ const Services = () => {
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+                        
                     </p>
                 </li>
               </ul>
@@ -92,31 +92,27 @@ const Services = () => {
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
+
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
                     </p>
                 </li>
                 <li>
                       <BiCheck className='service_list-icon' />
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto qui nulla minima aliquid, laborum voluptatibus! A, commodi. Facere unde delectus blanditiis quaerat corporis eius adipisci dolor itaque assumenda culpa?
                     </p>
                 </li>
               </ul>
