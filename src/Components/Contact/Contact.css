@@ -11,6 +11,15 @@
     gap: 1.2rem;
 }
 
+.contact_option{
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1x solid transparent;
+    transition: var(--transition);
+    text-align: center;
+}
+
 .container_option {
     background:var(--color-bg-variant);
     padding: 1.2rem;
@@ -20,13 +29,20 @@
     transition: var(--transition);
 }
 
-.contact_options:hover {
+.contact_option:hover {
     background: transparent;
-    border: white;
+    border-color:var(--color-primary-variant);
 }
 
 .contact_options-icon {
-    margin-top: 0.7rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    /* display: inline-block;
+    font-size: 0.8rem; */
+}
+
+.contact_option a {
+    margin: 0.7rem;
     display: inline-block;
     font-size: 0.8rem;
 }
@@ -44,7 +60,7 @@ input, textarea {
     width: 100%;
     padding: 1.5rem;
     border-radius:0.5rem;
-    background: transparent;
+    background: white;
     border: 2px solid var(--color-primary-variant);
     resize: none;
     color: white;
