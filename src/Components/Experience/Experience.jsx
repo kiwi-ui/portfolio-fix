@@ -17,39 +17,53 @@ const Experience = () => {
                     <small className='text-light'>Experienced</small>
                 </div>
             </article>
+
             <article className="experience_details">
                 <BsPatchCheckFill />
-                
                 <div>
                     <h4>CSS</h4>
                     <small className='text-light'>Experienced</small>
                 </div>
-
             </article>
+
             <article className="experience_details">
                 <BsPatchCheckFill />
                 <div>
-                <h4>Bootstrap</h4>
-                <small className='text-light'>Experienced</small>
+                    <h4>Bootstrap</h4>
+                    <small className='text-light'>Experienced</small>
                 </div>
             </article>
+
             <article className="experience_details">
                 <BsPatchCheckFill />
-            <div>
-              
-                <h4>Tailwind</h4>
-                <small className='text-light'>Experienced</small>
-            
-            </div>    
+                <div>
+                    <h4>Tailwind</h4>
+                    <small className='text-light'>Experienced</small>
+                </div>    
             </article>
+
             <article className="experience_details">
                 <BsPatchCheckFill />
-            
-            <div>
-                <h4>React</h4>
-                <small className='text-light'>Experienced</small>
-            </div>
-            
+                <div>
+                    <h4>React</h4>
+                    <small className='text-light'>Experienced</small>
+                </div>
+            </article>
+
+            <article className="experience_details">
+                <BsPatchCheckFill />
+                <div>
+                    <h4>Typescript</h4>
+                    <small className='text-light'>Experienced</small>
+                </div>
+            </article>
+
+            <article className="experience_details">
+                <BsPatchCheckFill />
+                <div>
+                    <h4>Ionic 6</h4>
+                    <small className='text-light'>Experienced</small>
+                </div>
             </article>
           </div>
         </div>
