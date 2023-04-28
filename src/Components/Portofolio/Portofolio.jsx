@@ -22,7 +22,7 @@ const data = [
     id : 3,
     image : IMG3,
     title : "Workshop BackOffice",
-    demo : 'https://https://ws-backoffice.netlify.app/'
+    demo : 'https://ws-backoffice.netlify.app/'
   },
   {
     id : 4,
