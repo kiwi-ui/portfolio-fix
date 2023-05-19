@@ -5,7 +5,7 @@
 }
 
 .portofolio_item {
-  background: var(--color-bg-variant);
+  /* background: var(--color-primary); */
   padding: 1.3rem;
   border-radius: 2rem;
   border: 1x solid transparent;
@@ -45,4 +45,7 @@
     grid-template-columns: 1fr;
     gap: 1rem;
   }
+}
+.text-center{
+  text-align: center;
 }

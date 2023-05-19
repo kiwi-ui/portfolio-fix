@@ -4,6 +4,7 @@ import IMG1 from '../../assets/porto1.PNG';
 import IMG2 from '../../assets/porto2.PNG';
 import IMG3 from '../../assets/porto3.png';
 import IMG4 from '../../assets/porto4.png';
+import IMG5 from '../../assets/vue.jpg'
 
 const data = [
   {
@@ -29,15 +30,22 @@ const data = [
     image : IMG4,
     title : "Company Profile",
     demo : 'https://compro-lavn.netlify.app'
+  },
+  {
+    id : 5,
+    image : IMG5,
+    title : "Vue Project",
+    demo : 'https://finaltask-ecommerce.web.app'
   }
-  
 ]
 
 const Portofolio = () => {
   return (
     <section id='portofolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portofolio</h2>
+      <div className='title text-center'>
+        <h5>My Recent Work</h5>
+        <h2>Portofolio</h2>
+      </div>
 
       <div className="container portofolio_container"> 
         {

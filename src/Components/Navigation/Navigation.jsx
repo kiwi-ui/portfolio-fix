@@ -7,30 +7,19 @@ import {RiServiceLine} from 'react-icons/ri'
 import {BiMessageSquareDetail} from 'react-icons/bi'
 import { useState } from 'react'
 
-const New = () => {
-  const [activeNav, setActiveNav] = useState('#')
-  return (
-    <nav>
-        <a href="#" className='active'><AiOutlineHome /></a>
-        <a href="#about"><AiOutlineUser /></a>
-        <a href="#experience"><BiBook /></a>
-        <a href="#contact"><RiServiceLine /></a>
-        <a href="#contact"><BiMessageSquareDetail /></a>
-
-    </nav>
-  )
-}
-
-
 const Navigation = () => {
+  const [activeNav, setActiveNav] = useState(null)
+  
+  const isActive = (active) => {
+    setActiveNav(active)
+  }
+
   return (
     <nav>
-        <a href="#" className='active'><AiOutlineHome /></a>
-        <a href="#about"><AiOutlineUser /></a>
-        <a href="#experience"><BiBook /></a>
-        <a href="#contact"><RiServiceLine /></a>
-        <a href="#contact"><BiMessageSquareDetail /></a>
-
+        <a href="#" onClick={ () => isActive('header') } className={`${ activeNav === 'header' ? 'active' : '' }`}><AiOutlineHome /></a>
+        <a href="#about" onClick={ () => isActive('about') } className={`${ activeNav === 'about' ? 'active' : '' }`}><AiOutlineUser /></a>
+        <a href="#experience" onClick={ () => isActive('experience') } className={`${ activeNav === 'experience' ? 'active' : '' }`}><BiBook /></a>
+        <a href="#contact" onClick={ () => isActive('contact') } className={`${ activeNav == 'contact' ? 'active' : '' }`}><BiMessageSquareDetail /></a>
     </nav>
   )
 }
